@@ -14,11 +14,11 @@ interface LOCALE_DATA {
 }
 
 const LOCALES_MAP: Record<string, LOCALE_DATA> = {
-  es: {
-    name: 'Español',
+  nl: {
+    name: 'Dutch - Netherlands	',
     img: {
-      filename: 'flag-es-co.svg',
-      alt: 'Bandera Colombiana',
+      filename: 'flag-nl-nl.svg',
+      alt: 'de Nederlandse vlag',
     },
   },
   'en-US': {
